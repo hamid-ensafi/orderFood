@@ -16,9 +16,9 @@
 
 - 👨‍💻 Developed by hamid ensafi
 
-- 📆 Created - 2023-07-04
+- 📆 Created - 2024-04-20
 
-- 🤖 Technologies Used - Html , css , js ,sass,bootstrap5
+- 🤖 Technologies tailwind react + vite redux toolkit react router 
 
 - 🕵🏻‍♀️ Role - Frontend
 
