@@ -6,12 +6,13 @@
 🏃‍♂️**this is my order pizza react application**
 <h3 align="center"> 📸 Gallery </h3>
 
-![‪Vite + React - Google Chrome‬ 8_3_2024 5_37_52 AM]([https://github.com/user-attachments/assets/05d66a65-1913-44ca-a5d8-ac8891bc48cb](https://orderpizza1.netlify.app/))
+![‪Vite + React - Google Chrome‬ 8_3_2024 5_37_52 AM](https://github.com/user-attachments/assets/05d66a65-1913-44ca-a5d8-ac8891bc48cb)
 
 
 
 
-- 🔗 [Demo Project](https://hamid-ensafi.github.io/personal-web/)
+
+- 🔗 [Demo Project](https://orderpizza1.netlify.app/)
 
 - 👨‍💻 Developed by hamid ensafi
 
